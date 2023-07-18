@@ -11,3 +11,5 @@
 
 ![image](https://github.com/nicofpalma/PROYECTO2-UNTREF/assets/42421169/3ac5f3fa-33df-4568-b90f-4af98e8aaeec)
 
+## Nota
+*El archivo .gitignore, lo generé con github al crear el repositorio, lo que hizo que se ignore el directorio node_modules/ y el archivo .env con las variables de entorno.*
